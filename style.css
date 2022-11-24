@@ -1,0 +1,16 @@
+
+.text {
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+body{
+    background-color:darkred;
+}
+
+canvas{
+    background-color: blueviolet;
+}
